@@ -1,0 +1,4 @@
+99016Gasolina
+88003Alcool
+77002Diesel
+66017Flex

@@ -1,0 +1,6 @@
+1100Sem restrições
+2201Alienado
+3303Financiado
+4407Circulação Proibida
+5502Uso em Serviço
+6605Veiculo Isento
